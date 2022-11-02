@@ -5,7 +5,10 @@ body {
     text-align: center;
 }
     
-
+body > div > p > a {
+    color: white;
+    text-decoration: none;   
+}
 
 body > h1 {
     background-color: goldenrod;
